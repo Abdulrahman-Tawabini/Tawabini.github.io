@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "bazaar",
-    "package_name": "com.example.my_app",
+    "package_name": "com.example.bazaar",
     "sha256_cert_fingerprints": ["11:13:81:82:89:B6:68:AF:06:99:1C:47:19:C5:A1:8D:A4:4A:FB:BF:D6:EC:05:7F:44:F3:D5:FC:A9:19:70:E9"]
   }
 }]
